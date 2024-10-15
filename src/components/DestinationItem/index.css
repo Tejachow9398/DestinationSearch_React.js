@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.user-card-container {
+  padding: 10px;
+  font-family: Roboto;
+}
+.pic {
+  width: 300px;
+  height: 200px;
+}
